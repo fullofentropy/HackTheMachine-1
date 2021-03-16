@@ -18,6 +18,7 @@ If you're up for it, clone this repo, create a branch, and add your name to this
 - Jaimie Gillette, PA42
 - Carlos Sanchez, AR12
 - Nick Hymer, AR10D
+- Annie Voigt, AR10D
 - Cesar Diaz, PA41
 - Randy Rodriguez, AR10
 - add your name here!
