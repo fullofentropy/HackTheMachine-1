@@ -19,5 +19,6 @@ If you're up for it, clone this repo, create a branch, and add your name to this
 - Carlos Sanchez, AR12
 - Nick Hymer, AR10D
 - another participate
+- Cesar Diaz, PA41
 - add your name here!
 
