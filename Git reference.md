@@ -10,8 +10,8 @@ Navigate to the directory where you want to copy your project folder to, then en
 Then enter your username if prompted followed by your password (personal access token).
 
 ### 2. Configure git global variables
-`git config --global user.name "<Your Name>"
- git config --global user.email "<youremail.navy.mil>"`
+`git config --global user.name "<Your Name>"`
+`git config --global user.email "<youremail.navy.mil>"`
 
 
 ## Basic Git flow
@@ -19,11 +19,11 @@ Then enter your username if prompted followed by your password (personal access 
 2. `git add file1 file2 ...` Make a changes to the code and stage them for commit.
 3. `git commit -m <commit message>` Commit the changes when they are finalized.
 4. Repeat steps 2 and 3 as needed until feature is working and complete.
-5. `git pull origin master` Merge new feature branch with remote master branch in case any updates have been made to remote repository.
-6. `git checkout master` Switch to master branch
-7. `git merge <branch>` Update master branch to catch up with the previous merge.
-8. `git push origin master` Update remote repository with new merged branch.
-9. `git branch -d <branch>` Delete branch now that it has been merged with master.
+5. `git pull origin main` Merge new feature branch with remote master branch in case any updates have been made to remote repository.
+    a. Fix any merge conflicts and commit.
+8. `git push` Update remote repository.
+9. In GitHub, create pull request and merge with main branch.
+10. (optional) `git branch -d <branch>` Delete branch now that it has been merged with master.
 
 
 ## Useful Commands
