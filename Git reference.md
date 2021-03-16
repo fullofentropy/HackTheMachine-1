@@ -10,7 +10,7 @@ Navigate to the directory where you want to copy your project folder to, then en
 Then enter your username if prompted followed by your password (personal access token).
 
 ### 2. Configure git global variables
-`git config --global user.name "<Your Name>"`
+`git config --global user.name "<Your Name>"`<br>
 `git config --global user.email "<youremail.navy.mil>"`
 
 
