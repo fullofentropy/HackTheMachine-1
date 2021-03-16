@@ -16,5 +16,6 @@ If you're up for it, clone this repo, create a branch, and add your name to this
 ---
 
 - Jaimie Gillette, PA42
+- Carlos Sanchez, AR12
 - add your name here!
 
