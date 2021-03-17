@@ -20,5 +20,6 @@ If you're up for it, clone this repo, create a branch, and add your name to this
 - Nick Hymer, AR10D
 - Cesar Diaz, PA41
 - Randy Rodriguez, AR10
+- Rhodora Villanueva, AR14
 - add your name here!
 
