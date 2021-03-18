@@ -1,0 +1,220 @@
+﻿key_works,risk_score
+exposure during travel,2
+bar,2
+large music concerts,2
+buffet,2
+gym,2
+church,2
+sports stadims,2
+amusement parks,2
+basketball,2
+public pools,2
+school,2
+working out at the gym,2
+going to an amusement park,2
+going to a movie theater,2
+attending a large music concert or venue,2
+eating at a buffet,2
+going to a sports stadium,2
+attending a large religious service,2
+going to a bar,2
+drinking with friends,2
+going out with friends,2
+playing basketball with my friends and team,2
+sitting in a crowded classroom ,2
+large gathering,2
+being indoors,2
+playing football,2
+hanging out,2
+shaking hands,2
+hugging,2
+playing soccer,2
+going to a concert,2
+going to a sports game indoors,2
+no one wearing masks,2
+crowded space,2
+indoor crowds without face masks,2
+nightclub,2
+clubbing,2
+indoor party,2
+large social gathering indoors,2
+see a concert or play,2
+sports stadium,2
+church,2
+go out with someone you don't know well,2
+gathering with lots of strangers,2
+hug,2
+shake hands,2
+attend a wedding or funeral,2
+don't wear a face mask,2
+enclosed spaces,2
+crowds,2
+close contact,2
+hard to social distance,2
+choir practice,2
+singing,2
+going to a bar with friends,2
+meeting new people,2
+socializing indoors,2
+visiting a friend's house,2
+indoor worship service,2
+crowded retail stores,2
+crowded grocery stores,2
+exercising at the gym,2
+going to the casino,1
+eating at a restaurant indoors,1
+playground,1
+hair salon,1
+barber shop,1
+boat ride,1
+movie theater,1
+dinner parties at a house,1
+getting a hair cut,1
+getting nails done,1
+pedicure,1
+manicure,1
+beauty salon,1
+flying ,1
+airplane,1
+airports,1
+travelling,1
+taxi ride,1
+uber ride,1
+subway,1
+bus,1
+public transportation,1
+malls,1
+going shopping at the mall,1
+beach,1
+bowling,1
+dentist office,1
+teeth cleaning,1
+walking on a crowded street,1
+walking on a busy area,1
+waiting rooms,1
+eating outside at a restaurant,1
+sending kids to school or daycare,1
+working in the office,1
+having dinner at someone else's home,1
+visiting an elderly friend or relative,1
+attending a backyard barbeque,1
+bbq,1
+eating at an outdoor restaurant,1
+staying at a hotel,1
+opening the mail,0
+getting takeout food,0
+getting restaurant food as takeout,0
+pumping gasoline,0
+getting gas,0
+playing tennis,0
+going camping,0
+grocery shopping,0
+going for a walk ,0
+going for a bike ride,0
+taking a hike,0
+bicycle ride,0
+playing golf,0
+being outdoors,0
+well ventilated space,1
+poor ventilated space,2
+curbside dining,0
+indoor dining,1
+cinema,1
+small backyard barbeque,1
+small outdoor picknic,1
+use a public restroom,1
+public bathroom,1
+young kids playdate,1
+small dinner party,1
+large dinner party,2
+see your doctor,0
+outdoor exercise,0
+confined area,2
+more than six feet apart,0
+less than six feet apart,2
+wear a mask,1
+don't wear a mask,2
+wash your hands,0
+touch mouth,2
+touch eyes,2
+touch nose,2
+more closely you interact with others and the longer that interaction,2
+public activities,2
+venturing out,2
+hand sanitizer,0
+ppe,0
+"well-fitting, multi-layer mask ",0
+increase ventilation,1
+building air filtration,1
+open windows,1
+fresh air,0
+fans,1
+poorly ventilated space,2
+close contact with people who are sick,2
+sporting events,2
+holidays and celebrations,2
+hosting gatherings,2
+social distancing,1
+Interacting with more people,2
+close contact with other people,2
+Spending more time with people ,2
+maintain at least 6 feet of space ,1
+Indoor spaces with less ventilation,2
+outdoor spaces,0
+open-air facilities,0
+"physical barriers, like plexiglass screens",0
+keep distance,0
+sanitizer,0
+washing your hands often,0
+disinfecting surfaces,0
+increased cleaning and disinfection ,0
+Public transit,1
+telework,0
+work from home,0
+stay home,0
+online meeting,0
+virtual gathering,0
+fever,2
+cough,2
+loss of smell or taste,2
+achy muscles,2
+sick,2
+online,0
+Disinfect the shopping cart,1
+disinfecting wipes,0
+"touch your eyes, nose, or mouth with unwashed hands",2
+touchless payment,0
+touching surfaces,2
+hand sanitizer,0
+wash your hands with soap and water ,0
+practice hand hygiene,0
+maintain social distancing,0
+Cover your mouth and nose with a mask,0
+bank online,0
+bank in-person,1
+sharing a drink with someone,2
+close proximity with others,2
+physical distance,0
+share a car ride,2
+shaking someone’s hand,1
+ traveling by plane ,1
+eating inside a restaurant,2
+Attending a religious service with 500-plus worshipers,2
+Running or biking,0
+Retail shopping,1
+Taking a taxi or a ride-sharing service,1
+Visiting a hospital emergency department,1
+Going to a museum,1
+Medical office visit,1
+Dentist appointment,1
+"hair, nail salon, or barbershop visit",1
+air travel,2
+Movie theater or live theater,2
+Playing contact sports,2
+Watching sports,2
+Attending religious services,2
+Attending a concert or music performance,2
+indoor party,2
+Taking public transportation,2
+Exercising at a gym,2
+Touching commonly used items and surfaces,2
