@@ -12,5 +12,11 @@ dict1 = {'1': [1,2,3]}
 df = pd.DataFrame(dict1)
 df
 
+df.columns = ['column1']
+print(df.head())
+
 df1 = df.T
 print(df1)
+
+
+
