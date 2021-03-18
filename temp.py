@@ -11,3 +11,6 @@ import pandas as pd
 dict1 = {'1': [1,2,3]}
 df = pd.DataFrame(dict1)
 df
+
+df1 = df.T
+print(df1)
