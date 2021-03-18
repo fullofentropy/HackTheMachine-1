@@ -1,0 +1,40 @@
+Instructions for installing packages from requirements text file into a new environment on personal device
+
+1) Open Anaconda Prompt (Type into search bar for Windows, may need to open as administrator)
+
+2) Grab the spec-file_htm21.txt and put it somewhere (we will reference its location later)
+
+3) Here comes the sweetest looking bit of code you'll see from conda. This line will install all the packages in the spec0file_htm21.txt into a new environemnt that you specify 
+
+# General Example: 
+conda create --name myenv --file path/where/file/is/spec-file_htm21.txt
+
+# Actual Example: 
+conda create --name test21 --file C:/Users/relat/OneDrive/Desktop/spec-file_htm21.txt
+
+3a) Activate the environment and check out what packages are in it:
+conda activate myenv
+conda list
+
+4) That should do the trick. All the packages have been updated for python 3.8. Beyond standard packages added: gensim, spacy, xgboost, tabulate, shap, lime, graphviz, treeviz, fiscalyear, dtreeviz, tensorflow, keras 
+
+5) Here are some useful conda code lines
+# Delete an environment
+conda env remove -n myenv
+# Create an environment 
+conda create -n myenv
+# Activate an environemnt 
+conda activate test-env
+# create a list of packages and put in a specific path
+conda list --explicit > path/spec-file.txt
+
+
+
+6) Useful website for environmental management: 
+# https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#cloning-an-environment
+
+7) General Package management notes:
+# So if you need to install more packages and want consistent packagement management without having to deal with a .yml files, one user can download the pckgs and update the spec-file.txt, share the spec-file.txt with others
+# run the following line of code to update an existing env with the new spec-file.txt:
+conda install --name myenv --file path/spec-file.txt
+# Conda does not check architecture or dependencies when installing from a spec file. To ensure that the packages work correctly, make sure that the file was created from a working environment, and use it on the same architecture, operating system, and platform, such as linux-64 or osx-64.
