@@ -1,11 +1,11 @@
-﻿key_works,risk_score
+﻿key_words,risk_score
 exposure during travel,2
 bar,2
 large music concerts,2
 buffet,2
 gym,2
 church,2
-sports stadims,2
+sports stadiums,2
 amusement parks,2
 basketball,2
 public pools,2
@@ -77,7 +77,7 @@ beauty salon,1
 flying ,1
 airplane,1
 airports,1
-travelling,1
+travelling,2
 taxi ride,1
 uber ride,1
 subway,1
@@ -98,7 +98,7 @@ working in the office,1
 having dinner at someone else's home,1
 visiting an elderly friend or relative,1
 attending a backyard barbeque,1
-bbq,1
+BBQ,1
 eating at an outdoor restaurant,1
 staying at a hotel,1
 opening the mail,0
@@ -121,7 +121,7 @@ curbside dining,0
 indoor dining,1
 cinema,1
 small backyard barbeque,1
-small outdoor picknic,1
+small outdoor picnic,1
 use a public restroom,1
 public bathroom,1
 young kids playdate,1
@@ -197,7 +197,7 @@ close proximity with others,2
 physical distance,0
 share a car ride,2
 shaking someone’s hand,1
- traveling by plane ,1
+ traveling by plane ,2
 eating inside a restaurant,2
 Attending a religious service with 500-plus worshipers,2
 Running or biking,0
@@ -218,3 +218,44 @@ indoor party,2
 Taking public transportation,2
 Exercising at a gym,2
 Touching commonly used items and surfaces,2
+flying in an airplane,2
+crowds,2
+exposed to covid-19,2
+exposed to coronavirus,2
+getting covid-19 vaccine,0
+living in tight quarters,2
+multigenerational household,2
+crowded household,2
+living with covid-19 positive person,2
+living with coronavirus positive person,2
+sneezing,2
+coughing,2
+fever,2
+chills,2
+walking in the park,0
+walking the dog,0
+shopping,1
+crowded shopping,2
+staying home,0
+travel,2
+swimming in the ocean,0
+walking on the beach,0
+walking on a crowded beach,1
+without a mask,2
+with a mask,1
+singing in a crowd,2
+watching tv with friends,2
+drinking alcohol at a bar or club,2
+getting drunk with lots of people,2
+going for a jog,0
+running on a treadmill at the gym,2
+spin class indoors,2
+exercise class inside,2
+large family gatherings,2
+zoom meetings with family,0
+convalescence homes,2
+retirement facilities,2
+virtual meeting,0
+in-person meeting,2
+talking on the phone,0
+cook,0
