@@ -23,5 +23,6 @@ If you're up for it, clone this repo, create a branch, and add your name to this
 - Randy Rodriguez, AR10
 - Rhodora Villanueva, AR14
 - Rob Liu 00D
+- Timmy Ngo, PA41
 - add your name here!
 
